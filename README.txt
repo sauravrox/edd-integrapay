@@ -22,7 +22,7 @@ This add on is fully translatable.
 
 == Installation ==
 
-1. Upload the plugin files to the `/wp-content/plugins/edd-integrapay-gateway` directory, or install the plugin through the WordPress plugins screen directly (recommended).
+1. Upload the plugin files to the `/wp-content/plugins/edd-integrapay` directory, or install the plugin through the WordPress plugins screen directly (recommended).
 2. Activate the plugin through the 'Plugins' screen in WordPress
 3. Enter your API keys and choose test-mode for making test payments
 4. Visit the Easy Digital Downloads payment gateway settings and select the Payment gateways you want to activate in your checkout page.
